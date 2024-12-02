@@ -1,0 +1,272 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://i.ibb.co.com/Sm6cSnw/unnamed.jpg",
+        "review": "Alex Michaelides crafts a masterful psychological thriller in 'The Silent Patient.' The story revolves around Alicia Berenson, a celebrated painter who inexplicably shoots her husband five times in the face and then becomes completely mute. Her silence transforms her into a subject of public fascination, making her artwork more famous than ever. Enter Theo Faber, a psychotherapist determined to unravel the mystery of Alicia's silence and uncover the truth behind the crime. As Theo delves deeper into Alicia’s life, he finds himself drawn into a complex web of secrets and lies, with shocking twists that challenge everything he thought he knew. Michaelides’s intricate plotting and skillful narrative structure make this book an unforgettable page-turner,",
+        "totalPages": 336,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": [
+            "Suspense",
+            "Psychological",
+            "Mystery"
+        ],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "bookId": 2,
+        "bookName": "Atomic Habits",
+        "author": "James Clear",
+        "image": "https://i.ibb.co.com/JpqWJdQ/61-M6-Kz-Ubf7-L-AC-UF1000-1000-QL80.jpg",
+        "review": "'Atomic Habits' by James Clear is a life-changing guide to understanding and optimizing the habits that define our daily lives. The book is grounded in science but presented in an engaging, practical way that makes it accessible to everyone. Clear explains how small changes—what he calls 'atomic habits'—can compound over time to create significant positive transformation. He introduces actionable frameworks such as the Four Laws of Behavior Change to help readers effectively implement habits. Full of real-world examples and backed by psychological research, this book is a must-read for anyone striving to improve themselves in any area of life. It's a blueprint for building a better you.",
+        "totalPages": 320,
+        "rating": 4.8,
+        "category": "Self-Help",
+        "tags": [
+            "Habits",
+            "Motivation",
+            "Productivity"
+        ],
+        "publisher": "Avery",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 3,
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "image": "https://i.ibb.co.com/Dky9bbB/09bookobama-copy-video-Sixteen-By-Nine-Jumbo1600-v3.jpg",
+        "review": "Michelle Obama's 'Becoming' is an intimate, powerful, and inspiring memoir that chronicles her life from childhood to her years as First Lady of the United States. With warmth, candor, and humor, Michelle invites readers into her world, sharing the experiences that have shaped her—from growing up in a working-class neighborhood in Chicago to balancing motherhood and career while supporting her husband's political ambitions. The book also sheds light on the challenges she faced in the public eye, the initiatives she championed, and her reflections on life in the White House. 'Becoming' is more than a memoir—it's a call to action, inspiring readers to strive for their dreams, embrace their identity, and lead lives of purpose and meaning.",
+        "totalPages": 448,
+        "rating": 4.7,
+        "category": "Biography",
+        "tags": [
+            "Memoir",
+            "Inspirational",
+            "Politics"
+        ],
+        "publisher": "Crown Publishing Group",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co.com/PQDFcBY/Hobbit-movie.jpg",
+        "review": "This enchanting tale introduces us to Bilbo Baggins, a reluctant hero who embarks on an epic adventure. Tolkien’s world-building is unparalleled, with vivid landscapes, unforgettable characters, and a story that resonates with readers of all ages. A masterpiece of fantasy literature that sets the stage for the legendary Lord of the Rings trilogy.",
+        "totalPages": 310,
+        "rating": 4.6,
+        "category": "Fantasy",
+        "tags": [
+            "Adventure",
+            "Fantasy",
+            "Classic"
+        ],
+        "publisher": "George Allen & Unwin",
+        "yearOfPublishing": 1937
+    },
+    {
+        "bookId": 5,
+        "bookName": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://i.ibb.co.com/JddMfyX/0df78d75dd8e0fff8248db1c3accb80a.jpg",
+        "review": "'Sapiens' by Yuval Noah Harari is a sweeping exploration of humanity's history, offering profound insights into how Homo sapiens became the dominant species on Earth. Harari examines pivotal moments such as the Cognitive Revolution, which enabled humans to cooperate and imagine complex social constructs, and the Agricultural Revolution, which fundamentally transformed human societies. He also delves into the scientific and industrial revolutions that have reshaped the world. Harari's ability to synthesize vast amounts of information into an engaging narrative makes this book a compelling read. It challenges readers to question the myths, ideologies, and systems that underpin modern civilization, leaving a lasting impression about our past, present, and future.",
+        "totalPages": 443,
+        "rating": 4.7,
+        "category": "History",
+        "tags": [
+            "Anthropology",
+            "Science",
+            "Evolution"
+        ],
+        "publisher": "Harper",
+        "yearOfPublishing": 2011
+    },
+    {
+        "bookId": 6,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co.com/6r8Y36Y/s-l1200.jpg",
+        "review": "George Orwell's '1984' is a chilling dystopian novel that explores the dangers of totalitarianism and extreme political ideologies. Set in a world where the Party exercises complete control over every aspect of life, including thought, the story follows Winston Smith as he navigates a society where history is rewritten, privacy is nonexistent, and individuality is crushed. The concept of Big Brother, the Thought Police, and Newspeak are Orwell's stark warnings about the perils of authoritarianism. Through Winston's rebellion and ultimate fate, Orwell masterfully conveys the fragility of freedom and the terrifying consequences of surrendering it. '1984' is a timeless masterpiece that continues to resonate in the modern era.",
+        "totalPages": 328,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Dystopian",
+            "Classic",
+            "Political"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 7,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co.com/q1VXp5Z/whatsapp-image-2023-05-18-at-4-45-51-pm-500x500.webp",
+        "review": "Harper Lee's 'To Kill a Mockingbird' is a profoundly moving exploration of morality, justice, and the human condition set in the racially segregated American South. Told through the eyes of Scout Finch, a young girl, the story revolves around her father, Atticus Finch, a principled lawyer defending a black man falsely accused of raping a white woman. Lee masterfully portrays the prejudices, hypocrisies, and injustices of the time while also highlighting the courage, integrity, and compassion that can overcome them. The novel's rich characters, timeless themes, and poignant narrative make it a cornerstone of American literature and a must-read for all generations.",
+        "totalPages": 281,
+        "rating": 4.9,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Drama",
+            "Social"
+        ],
+        "publisher": "J.B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 8,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co.com/YyFNHWy/images.jpg",
+        "review": "A coming-of-age story that captures the essence of teenage rebellion and alienation. Holden Caulfield’s voice is raw, honest, and often controversial, making this book a staple of modern literature. Salinger’s novel continues to inspire and provoke discussion among readers of all ages.",
+        "totalPages": 214,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Coming-of-Age",
+            "Drama"
+        ],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 9,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "https://i.ibb.co.com/ydBmRgB/336-3365689-book-cover-hd-png-download.jpg",
+        "review": "Paulo Coelho’s masterpiece is a poetic journey about self-discovery and following one’s dreams. Through the story of Santiago, a shepherd boy, Coelho imparts profound life lessons about the pursuit of personal legend, the importance of love, and the unity of the universe.",
+        "totalPages": 208,
+        "rating": 4.4,
+        "category": "Fiction",
+        "tags": [
+            "Philosophy",
+            "Adventure",
+            "Inspirational"
+        ],
+        "publisher": "HarperOne",
+        "yearOfPublishing": 1988
+    },
+    {
+        "bookId": 10,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co.com/hD4dBNP/9789387779679-W-e1620288112580.webp",
+        "review": "Jane Austen's 'Pride and Prejudice' is a delightful and insightful exploration of love, society, and personal growth in 19th-century England. At its heart is Elizabeth Bennet, an intelligent and spirited young woman who must navigate the pressures of marriage and social expectations while grappling with her evolving feelings for the enigmatic Mr. Darcy. Austen's sharp wit, engaging characters, and intricate plot make this novel a timeless classic. The story's themes of self-awareness, humility, and understanding are as relevant today as they were when the book was first published, cementing its place as one of the most beloved works of literature.",
+        "totalPages": 279,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Romance",
+            "Drama"
+        ],
+        "publisher": "T. Egerton",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 11,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co.com/XzTKj2G/gatsby-mti-jacket-3-4.webp",
+        "title": "The Great Gatsby",
+        "description": "A tale of wealth and excess in the Roaring Twenties.",
+        "tags": [
+            "Lemon",
+            "Butter",
+            "Sugar",
+            "Flour",
+            "Eggs"
+        ],
+        "totalPages": 255,
+        "rating": 5.8,
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925,
+        "review": "F. Scott Fitzgerald's 'The Great Gatsby' is a quintessential American novel that captures the extravagance and disillusionment of the Jazz Age. Set in the summer of 1922, the story is narrated by Nick Carraway, who becomes entangled in the mysterious world of his wealthy neighbor, Jay Gatsby. Gatsby's obsessive pursuit of Daisy Buchanan and his extravagant parties symbolize the hollow pursuit of wealth and status. Fitzgerald's elegant prose and keen social commentary offer a critical look at the American Dream, making 'The Great Gatsby' a timeless reflection on ambition, love, and the moral decay hidden behind glittering facades."
+    },
+    {
+        "bookId": 12,
+        "bookName": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "image": "https://i.ibb.co.com/hCPNtWH/image-asset.jpg",
+        "title": "Thinking, Fast and Slow",
+        "description": "A profound look into the workings of the human mind.",
+        "tags": [
+            "Coconut Milk",
+            "Onion",
+            "Garlic",
+            "Chicken Stock",
+            "Mushrooms"
+        ],
+        "totalPages": 300,
+        "rating": 4.9,
+        "publisher": "Farrar, Straus and Giroux",
+        "yearOfPublishing": 2011,
+        "review": "Daniel Kahneman's 'Thinking, Fast and Slow' is an influential exploration of the dual systems that drive our thinking processes. Drawing on decades of research in psychology and behavioral economics, Kahneman elucidates how our minds operate through two distinct modes: System 1, which is fast, intuitive, and emotional; and System 2, which is slower, more deliberate, and logical. Through engaging anecdotes and empirical studies, the book reveals the cognitive biases and heuristics that affect our decision-making, often leading to flawed judgments and irrational behavior. 'Thinking, Fast and Slow' is a compelling read that challenges readers to become more aware of their own thinking patterns and improve their decision-making skills."
+    },
+    {
+        "bookId": 13,
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "https://i.ibb.co.com/q9BjgVy/fe267ca9491194b93ae34ef5247fcccc.jpg",
+        "title": "Educated",
+        "description": "A memoir of growing up in a strict and abusive household.",
+        "tags": [
+            "Chicken Breast",
+            "Rosemary",
+            "Thyme",
+            "Garlic",
+            "Olive Oil"
+        ],
+        "totalPages": 209,
+        "rating": 3.8,
+        "publisher": "Random House",
+        "yearOfPublishing": 2018,
+        "review": "Tara Westover's 'Educated' is a powerful memoir that chronicles her extraordinary journey from a restrictive and abusive upbringing in rural Idaho to earning a Ph.D. from Cambridge University. Born to survivalist parents who distrusted formal education and medical institutions, Tara's pursuit of knowledge was fraught with challenges and personal sacrifices. Through resilience and determination, she overcame immense obstacles to redefine her identity and break free from her family's oppressive beliefs. 'Educated' is a testament to the transformative power of education and the human spirit's capacity to overcome adversity."
+    },
+    {
+        "bookId": 14,
+        "bookName": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://i.ibb.co.com/Q9KQcgj/image.jpg",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "description": "A magical story about a young wizard's adventures.",
+        "tags": [
+            "Pizza Dough",
+            "Tomato Sauce",
+            "Mozzarella",
+            "Basil",
+            "Olive Oil"
+        ],
+        "totalPages": 200,
+        "rating": 5.8,
+        "publisher": "Scholastic Corporation",
+        "yearOfPublishing": 1997,
+        "review": "J.K. Rowling's 'Harry Potter and the Sorcerer's Stone' is the enchanting beginning of the beloved Harry Potter series. The novel introduces readers to Harry, an orphan living with his unpleasant relatives, who discovers on his eleventh birthday that he is a wizard. Harry's acceptance into Hogwarts School of Witchcraft and Wizardry opens the door to a world of magic, friendship, and adventure. Rowling's vivid imagination, intricate world-building, and relatable characters create a captivating narrative that has resonated with readers of all ages. 'Harry Potter and the Sorcerer's Stone' not only sparks the imagination but also imparts valuable lessons about bravery, loyalty, and the importance of choice."
+    },
+    {
+        "bookId": 15,
+        "bookName": "The Road",
+        "author": "Cormac McCarthy",
+        "image": "https://i.ibb.co.com/2FZxRk5/61b3cda3-babd-430c-8cf8-3af20de17beb-800x1200.jpg",
+        "title": "The Road",
+        "description": "A haunting tale of survival in a post-apocalyptic world.",
+        "tags": [
+            "Water",
+            "Bread",
+            "Butter",
+            "Salt",
+            "Black Pepper"
+        ],
+        "totalPages": 179,
+        "rating": 5.2,
+        "publisher": "Alfred A. Knopf",
+        "yearOfPublishing": 2006,
+        "review": "Cormac McCarthy's 'The Road' is a stark and haunting novel that explores the depths of human resilience and the enduring bond between father and son. Set in a bleak, post-apocalyptic landscape, the story follows a father and his young son as they navigate a world devoid of hope and overrun by desolation. McCarthy's minimalist prose and vivid imagery convey the grim realities of survival, while the characters' unwavering love and determination provide a poignant counterbalance to the surrounding despair. 'The Road' is a powerful meditation on morality, humanity, and the lengths one will go to protect loved ones in the face of unimaginable adversity."
+    }
+]
