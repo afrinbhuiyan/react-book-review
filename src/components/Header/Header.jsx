@@ -3,14 +3,14 @@ import './Header.css'
 
 const Header = () => {
     const links = <>
-        <nav className="flex gap-4">
-            <li><NavLink to={'/'} ><a>Home</a></NavLink></li>
-            <li> <NavLink to={'/listed'} >Listed Books</NavLink> </li>
-            <li> <NavLink to={'/pages'} >Pages to Read</NavLink> </li>
+        <nav className="flex gap-4 ">
+            <li className="hover:underline hover:text-lime-600"><NavLink to={'/'} ><a>Home</a></NavLink></li>
+            <li className="hover:underline hover:text-lime-600"> <NavLink to={'/listed'} >Listed Books</NavLink> </li>
+            <li className="hover:underline hover:text-lime-600"> <NavLink to={'/pages'} >Pages to Read</NavLink> </li>
         </nav>
     </>
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-base-100 mt-10">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
