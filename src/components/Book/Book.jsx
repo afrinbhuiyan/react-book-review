@@ -1,8 +1,10 @@
 import { IoStarHalf } from "react-icons/io5";
+import { Link } from "react-router-dom";
 
 const Book = ({book}) => {
-    const {image, bookName, tags, author, category, rating} = book;
+    const {bookId, image, bookName, tags, author, category, rating} = book;
     return (
+        <Link to={`/book/${bookId}`} >
         <div className="border p-6 rounded-2xl hover:shadow-xl hover:shadow-[#1111113f]">
             <div className="bg-[#1111] py-6 flex justify-center rounded-2xl">
             <img width={'150px'} src={image} alt="" />
@@ -19,6 +21,7 @@ const Book = ({book}) => {
                 <p className="flex items-center"> <IoStarHalf className="text-[#30d430] mr-3 "></IoStarHalf> {rating}</p>
             </div>
         </div>
+        </Link>
     );
 };
 

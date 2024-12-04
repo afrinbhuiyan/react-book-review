@@ -47,10 +47,10 @@ const Header = () => {
             <div className="navbar-end">
                 <a className="btn bg-[#30cf1b] text-white hover:shadow-xl
                 hover:shadow-[#92f38f] hover:border hover:border-[#51ad48] 
-                hover:bg-lime-200 hover:text-[#30cf1b]">Button</a>
+                hover:bg-lime-200 hover:text-[#30cf1b]">Sign In</a>
                 <a className="btn bg-[#30a3d8] text-white hover:shadow-xl
                 hover:shadow-[#8fc3f3] hover:border hover:border-[#30a3d8] 
-                hover:bg-sky-200 hover:text-[#30a3d8] ml-3">Button</a>
+                hover:bg-sky-200 hover:text-[#30a3d8] ml-3">Sign Up</a>
                 
             </div>
         </div>
