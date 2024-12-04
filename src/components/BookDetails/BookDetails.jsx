@@ -1,4 +1,9 @@
 import { useLoaderData, useParams } from "react-router-dom";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+import { seveBookApplication } from "../../Utility/localStorage";
+// import { AiFillCheckCircle } from "react-icons/ai";
+
 
 const BookDetails = () => {
     const books = useLoaderData();
@@ -6,6 +11,12 @@ const BookDetails = () => {
     const idInt = parseInt(bookId)
     const book = books.find(book => book.bookId === idInt);
     console.log(book)
+
+    const handleApplyBook = () => {
+        seveBookApplication(idInt)
+        toast.success('Books Added to Read List')
+    }
+
     return (
         <div className="mt-20 flex gap-10">
             <div className="bg-[#1111] p-7 rounded-lg flex-1 flex items-center justify-center">
@@ -36,7 +47,7 @@ const BookDetails = () => {
                     </div>
                 </div>
                 <div className="mt-4">
-                    <button className="btn border-[#1d8626] text-[#1d8626] 
+                    <button onClick={handleApplyBook} className="btn border-[#1d8626] text-[#1d8626] 
                     hover:bg-lime-600 hover:text-[#ffff] 
                     hover:shadow-xl hover:shadow-[#608150]
                     ">Read</button>
@@ -46,6 +57,7 @@ const BookDetails = () => {
                     Wishlist </button>
                 </div>
             </div>
+            <ToastContainer stacked />
         </div>
     );
 };
