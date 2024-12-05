@@ -1,5 +1,5 @@
 const getStoredBookApplication = () => {
-    const storedbookApplication = localStorage.getItem('book-application')
+    const storedbookApplication = localStorage.getItem('book-applications')
     if(storedbookApplication){
         return JSON.parse(storedbookApplication)
     }
@@ -11,9 +11,9 @@ const seveBookApplication = bookId => {
     const exists = storedbookApplication.find(bookedId => bookedId === bookId );
     if(!exists){
         storedbookApplication.push(bookId)
-        localStorage.setItem('book-application', JSON.stringify(storedbookApplication))
+        localStorage.setItem('book-applications', JSON.stringify(storedbookApplication))
     }
 
 }
 
-export {seveBookApplication, getStoredBookApplication}
+export { getStoredBookApplication, seveBookApplication}

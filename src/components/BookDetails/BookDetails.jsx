@@ -51,7 +51,7 @@ const BookDetails = () => {
                     hover:bg-lime-600 hover:text-[#ffff] 
                     hover:shadow-xl hover:shadow-[#608150]
                     ">Read</button>
-                    <button className="btn bg-[#30a3d8] text-white hover:shadow-xl
+                    <button onClick={handleApplyBook} className="btn bg-[#30a3d8] text-white hover:shadow-xl
                     hover:shadow-[#8fc3f3] hover:border hover:border-[#30a3d8] 
                     hover:bg-sky-100 hover:text-[#30a3d8] ml-3">
                     Wishlist </button>
